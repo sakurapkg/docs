@@ -1,0 +1,22 @@
+input: ./
+output: .retype
+url: yourname.github.io/pubric-bot/
+favicon: 
+branding:
+  title: Title
+  label: Beta
+  logo: 
+links:
+- text: 
+  link: 
+  icon: comment-discussion
+  target: blank
+- text: Github
+  link: https://github.com/
+  icon: mark-github
+  target: blank
+- text: Twitter
+  link: https://twitter.com/
+  target: blank
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
